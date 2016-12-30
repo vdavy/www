@@ -16,7 +16,7 @@ In a few minutes you'll be set up with a minimal, responsive blog like the one b
 
 ![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
-## Démarrage rapide
+## Quick Start
 
 ### Step 1) Fork Jekyll Now to your User Repository
 
