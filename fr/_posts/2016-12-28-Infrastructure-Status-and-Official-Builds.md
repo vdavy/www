@@ -17,7 +17,7 @@ Besoins actuels :
   * Avoir minimum 500GB de stockage. 
   * NB: nous préférerions les connexions sans restriction avec des adresses IP statiques, et ils doivent être dans une sorte de société d'hébergement professionnelle (datacenter, colocation, ISP, université, etc). Tandis que nous apprécions les offres des gens avec le gigabit à la maison, c'est un peu difficile de se débrouiller. 
 
-S'il vous plaît contactez <infra@lineageos.org> si vous êtes prêt à fournir soit des build slaves ou des mirroirs.
+S'il vous plaît contactez [&#x69;&#x6e;&#102;&#x72;&#97;&#64;&#x6c;&#105;&#x6e;&#101;&#97;&#x67;&#101;o&#x73;&#46;&#x6f;&#114;&#103;](&#x6d;&#97;&#x69;&#108;&#116;&#x6f;&#58;&#x69;&#x6e;&#102;&#x72;&#97;&#64;&#x6c;&#105;&#x6e;&#101;&#97;&#x67;&#101;o&#x73;&#46;&#x6f;&#114;&#103;) si vous êtes prêt à fournir soit des build slaves ou des mirroirs.
 
 Rappel : nous n'avons pas commencé à faire des versions officielles. Un des avantages de ce qui est un projet open source est que n’importe qui peut le construire, mais s’il vous plaît soyez prudent aux versions que vous avez téléchargé à partir d’autres sources. Nous aurons plus d'informations sur la disponibilité des versions hebdomadaires (ou éventuellement quotidiennes) prochainement.
 
