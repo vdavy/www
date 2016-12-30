@@ -1,14 +1,14 @@
 ---
 - 
-  name: Contribute
+  name: Contribuer
   data:
     - 
       name: Gerrit
-      text: Gerrit is a web based code review system, facilitating online code reviews for projects using the Git version control system.
+      text: Gerrit est un système de versioning de code basé sur la technologie web, facilitant les révisions de code pour les projets utilisant Git.
       url: 'http://review.lineageos.org'
     - 
       name: Wiki (Prochainement)
-      text: Our wiki is always looking for editors. If you enjoy writing clear and concise guides, tutorials, or documentation we need you!
+      text: Notre wiki est toujours à la recherche de contributeurs. Si vous aimez écrire des guides clairs et concis, tutoriels ou documentation nous avons besoin de vous !
       url: '\#'
   0:
     name: Support
