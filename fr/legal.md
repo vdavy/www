@@ -6,15 +6,15 @@ layout: page title: Legal permalink: /legal/
 
 ## Terms of Service
 
-### DISCLAIMER
+### CLAUSE DE NON-RESPONSABILITÉ
 
 LineageOS (Lineage Android Distribution) members or anyone else on this website is not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in the products you find here before flashing it! YOU are choosing to make these modifications, and if you point the finger at us for messing up your device, we will laugh at you. Your warranty will be void if you tamper with any part of your device / software.
 
-### TERMS OF USE
+### CONDITIONS D’UTILISATION
 
 Certain images, logos, pictures, and other works originating with organizations other than LineageOS may be or are the trademarks and/or servicemarks of those other organizations and are subject to the laws of their registered countries. LineageOS’ usage constitutes a ‘fair use’ of any such copyrighted material as provided for in section 107 of the US Copyright Law. If you wish to use copyrighted material from this site for purposes of your own that go beyond ‘fair use’, you must obtain permission from the copyright owner. Requests for removal of copyright material may be sent to legal@lineageos.org.
 
-## Privacy Policy
+## Politique de confidentialité
 
 Your privacy is important to LineageOS (Lineage Android Distribution) so we've developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices.
 
@@ -61,16 +61,16 @@ We do not knowingly collect personal information from children under 13 except w
 
 ### INFORMATION WE MAY SHARE
 
-We do not share your information with companies, organizations, and individuals outside of LineageOS unless one of the following circumstances applies:
+Nous ne partageons pas vos informations avec des entreprises, organisations et individus en dehors de LineageOS, à moins qu’une des circonstances suivantes s’applique :
 
 - With your consent. (Submission of bug reports to our bug tracking platform will be considered consent.)
-- When legally required.
+- Lorsque légalement requis.
 
 We will share the information we have with entities outside of LineageOS if we have a good faith belief that access, use, preservation, or disclosure of the information is necessary to:
 
-- meet any applicable law, regulation, legal process or enforceable governmental request.
+- respecter la loi applicable, règlement, processus légal ou demande gouvernementale applicable.
 - enforce applicable Terms of Service, including investigation of potential violations.
 - detect, prevent, or otherwise address fraud, security, or technical issues.
 - protect against harm to the rights, property, or safety of LineageOS, our users, or the public as required or permitted by law.
 
-We will update this privacy policy as needed so that it is current, accurate, and as clear as possible.
+Nous mettrons à jour cette politique de confidentialité selon les besoins de sorte qu’il soit actuel, précis et aussi clair que possible.
