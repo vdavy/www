@@ -15,7 +15,7 @@
     data:
       - 
         name: IRC
-        text: If you are comfortable with IRC and would like instant help and assistance from both developers and others users alike.
+        text: Si vous êtes à l’aise avec IRC et que vous voulais une aide instantanée directement avec les développeurs et autres utilisateurs.
         url: 'https://webchat.freenode.net/?channels=lineageos'
       - 
         name: reddit
