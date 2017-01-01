@@ -12,16 +12,18 @@ Si vous n’avez pas entendu parler de nous, vous devriez dans les prochaines se
 
 Besoins actuels :
 
-* Build Slaves 
-  * Vous devez être capable de finir (et d'upload) `make clean && make dist` en moins d'une heure , et d’être capable de faire tourner docker. 
+* Serveur de Build
+  * Vous devez être capable d'éxecuter (et d'*uploader*) `make clean && make dist` en moins d'une heure, et d'exécuter *docker*.
 * Mirroir 
-  * Avoir au minimum une connexion 100mo. 1go préféré. 
-  * Avoir minimum 500GB de stockage. 
-  * NB: nous préférerions les connexions sans restriction avec des adresses IP statiques, et ils doivent être dans une sorte de société d'hébergement professionnelle (datacenter, colocation, ISP, université, etc). Tandis que nous apprécions les offres des gens avec le gigabit à la maison, c'est un peu difficile de se débrouiller. 
+  * Avoir au minimum une connexion 100 Mb. 1Gb préférée.
+  * Avoir au minimum 500Go d'espace de stockage.
+  * NB: nous préférons les connexions sans restriction avec des adresses IP statiques, et de préférence les solutions d'hébergement professionnelles (datacenter, colocation, ISP, université, etc).  
+  Bien que nous apprécions les offres des gens ayant une connexion gigabit chez eux, cela rend la gestion trop compliqué.
 
-S'il vous plaît contactez <infra@lineageos.org> si vous êtes prêt à fournir soit des build slaves ou des mirroirs.
+Si vous souhaitez fournir des serveurs de build ou des mirroirs, merci de nous contacter par mail à <infra@lineageos.org>.
 
-Rappel : nous n'avons pas commencé à faire des versions officielles. Un des avantages de ce qui est un projet open source est que n’importe qui peut le construire, mais s’il vous plaît soyez prudent aux versions que vous avez téléchargé à partir d’autres sources. Nous aurons plus d'informations sur la disponibilité des versions hebdomadaires (ou éventuellement quotidiennes) prochainement.
+Rappel : nous n'avons pas encore commencé à faire des versions officielles. Un des avantages d'un projet open source est que n’importe qui peut le compiler. Néanmoins, soyez vigilants sur les risques à installer des versions téléchargées sur des sites non-officiels.  
+Nous aurons plus d'informations sur la disponibilité des versions hebdomadaires (ou éventuellement quotidiennes) prochainement.
 
 Merci !
 
